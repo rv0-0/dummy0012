@@ -42,7 +42,7 @@ for k=1:20
     end
 end
 disp('********************************')
-disp('SOLUTION:')
+disp('Result:')
 for i=1:n
     fprintf('x[%d]=%f\n',i,x(i))
 end
